@@ -1,6 +1,6 @@
 # Screaming Frog SEO Analysis Tools
 
-https://github.com/abushanisro/screamingfrog/blob/main/Screeming%20frog.png?raw=true
+![Image alt](https://github.com/abushanisro/screamingfrog/blob/main/Screeming%20frog.png?raw=true)
 
 A collection of advanced JavaScript tools for analyzing website structure, internal linking patterns, and semantic content relationships using Screaming Frog SEO Spider.
 
