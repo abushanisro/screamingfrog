@@ -110,6 +110,7 @@ The tools generate detailed analysis reports including:
 - Similarity scores between pages
 - Actionable recommendations
 - Performance statistics
+- 
 
 ## Troubleshooting
 
@@ -123,6 +124,8 @@ The tools generate detailed analysis reports including:
 
 This is an analysis tool designed for SEO professionals using Screaming Frog SEO Spider. Ensure you have the appropriate permissions to analyze target websites.
 
+
 ## License
 
 This project is provided as-is for educational and professional SEO analysis purposes.# screamingfrog
+https://docs.google.com/document/d/1gtgU58ZzfXGYsbtq7UwmaSOnXETX6wFqnaBuarlZfi0/edit?tab=t.btb8333j35ke#heading=h.fo5wrxsed8fz
